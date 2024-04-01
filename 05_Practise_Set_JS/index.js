@@ -36,3 +36,5 @@ const dict = {
     random : "Something that happens",
 }
 console.log(dict)
+
+//o/p = {symptom: 'An indication of a disorder or disease', appreciate: 'recognize the full worth of', random: 'Something that happens'}
